@@ -29,7 +29,7 @@ if (downloadModal) {
 if (finalDownload) {
     finalDownload.addEventListener('click', () => {
         const link = document.createElement('a');
-        link.href = 'https://www.dropbox.com/scl/fi/8snhhynwg8pi1lvbqtvts/SeraphionV2.zip?rlkey=fc5mdbniyswsbv5h7ex0fcqtv&st=zl1lcpln&dl=1';
+        link.href = 'https://www.dropbox.com/scl/fi/t3a14p9mhskpkbpyrlid3/Seraphion.exe?rlkey=mecco8dmmjxeho39jlkw0pvgz&st=94ehxzh3&dl=1';
         link.click();
         
         // Brief delay before closing to show interaction
